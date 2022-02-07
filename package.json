@@ -21,7 +21,7 @@
     "serve-favicon": "^2.3.0",
     "swig": "^1.4.2",
     "underscore": "^1.8.3",
-    "log4j": "2.14.0"
+    "log4js": "6.1.0"
   },
   "comments": {
     "//": "a9 insecure components"
